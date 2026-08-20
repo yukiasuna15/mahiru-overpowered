@@ -1,0 +1,7 @@
+.env
+accounts/
+__pycache__/
+*.pyc
+
+accounts.json
+.env

@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.crt
+*credentials*.json
+*credential*.json
+*session*
+*cookie*
+*token*
+
+# Runtime output
+*.log
+*.sqlite3
+*.db
+*.jsonl

@@ -1,0 +1,9 @@
+[
+  {
+    "email": "user@outlook.com",
+    "password": "<PASSWORD>",
+    "name": "example user",
+    "created": "2026-01-01T00:00:00",
+    "url": "https://signup.live.com/?lic=1"
+  }
+]
